@@ -2,6 +2,9 @@
 
 public class TableUtilities {
     public static String getSmallMultiplicationTable() {
+        new string 
+        
+        
         return null;
     }
 
